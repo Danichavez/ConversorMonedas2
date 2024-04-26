@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d72ef3b-68e0-404e-bf5a-5c7292118484" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/eclipsesource_jaxrs_provider_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorMonedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/conversormoneda/modelos/EntradaValor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/conversormoneda/modelos/Resultado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/conversormoneda/principal/Principal.java" afterDir="false" />
+    <list default="true" id="1d72ef3b-68e0-404e-bf5a-5c7292118484" name="Changes" comment="Proyecto ConversorMoneda con api ExchangeRate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2fbuCceyL100Glxk89q7VZdQL8d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,10 +45,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/danic/DesafiosBackend",
     "onboarding.tips.debug.path": "C:/Users/danic/Desktop/DesafiosBackend/ConversorMonedas/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,6 +61,52 @@
       <option name="presentableId" value="Default" />
       <updated>1714081974467</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto ConversorMoneda con api ExchangeRate">
+      <option name="closed" value="true" />
+      <created>1714089464402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714089464402</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto ConversorMoneda con api ExchangeRate">
+      <option name="closed" value="true" />
+      <created>1714089508985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714089508985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto ConversorMoneda con api ExchangeRate">
+      <option name="closed" value="true" />
+      <created>1714089515740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714089515740</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Proyecto ConversorMoneda con api ExchangeRate">
+      <option name="closed" value="true" />
+      <created>1714089822164</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714089822164</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Proyecto ConversorMoneda con api ExchangeRate">
+      <option name="closed" value="true" />
+      <created>1714089834742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714089834742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push1" />
+    <MESSAGE value="Proyecto ConversorMoneda con api ExchangeRate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto ConversorMoneda con api ExchangeRate" />
   </component>
 </project>
